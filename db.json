@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "caption": "Bolna Halke",
+      "imageUrl": "https://c.saavncdn.com/519/Bol-Na-Halke-Halke-LoFi-Mix-Hindi-2022-20220419114632-500x500.jpg",
+      "emdedLink": "https://www.youtube.com/embed/jXwg9l9D51A",
+      "id": 1
+    },
+    {
+      "caption": "Chaleya",
+      "imageUrl": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "emdedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "id": 2
+    },
+    {
+      "caption": "Ae Dil hai",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5MzcyNjg0Ml5BMl5BanBnXkFtZTgwOTY2NTc4OTE@._V1_.jpg",
+      "emdedLink": "https://www.youtube.com/embed/6FURuLYrR_Q",
+      "id": 3
+    },
+    {
+      "caption": "Ethu Kari",
+      "imageUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/5071/635071-v",
+      "emdedLink": "https://www.youtube.com/embed/dz3ik3XzR54",
+      "id": 4
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "category": "Hindi Songs",
+      "Allvideos": [
+        {
+          "caption": "Chaleya",
+          "imageUrl": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+          "emdedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+          "id": 2
+        },
+        {
+          "caption": "Ae Dil hai",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5MzcyNjg0Ml5BMl5BanBnXkFtZTgwOTY2NTc4OTE@._V1_.jpg",
+          "emdedLink": "https://www.youtube.com/embed/6FURuLYrR_Q",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Malayalam songs",
+      "Allvideos": [],
+      "id": 2
+    }
+  ]
+}
